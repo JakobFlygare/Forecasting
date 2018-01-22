@@ -98,5 +98,7 @@ ggAcf(y)
 awdad = 1
 hehe= 1
 
+hejasdofkp = 0
+
 
 
