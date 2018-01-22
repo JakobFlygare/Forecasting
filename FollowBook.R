@@ -102,3 +102,5 @@ hejasdofkp = 0
 
 NYBRANCH <- 0 
 
+jt=23
+
