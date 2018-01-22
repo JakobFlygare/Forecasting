@@ -94,3 +94,7 @@ ggAcf(y)
 #Är många (>>5%) staplar utanför -> inte white noise
 #Motsvarar 5% / 95% principen
 
+#ÄNDRAR NÅNTING LOLOLOLO
+awdad = 1
+
+
