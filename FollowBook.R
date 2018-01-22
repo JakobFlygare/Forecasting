@@ -96,5 +96,7 @@ ggAcf(y)
 
 #ÄNDRAR NÅNTING LOLOLOLO
 awdad = 1
+hehe= 1
+
 
 
